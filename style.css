@@ -1,0 +1,17 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 2em;
+    background-color: #f8f9fa;
+    color: #212529;
+}
+header {
+    text-align: center;
+    margin-bottom: 2em;
+}
+section {
+    margin-bottom: 2em;
+}
+a {
+    color: #007bff;
+}
